@@ -66,20 +66,6 @@
       unitPrice: "5",									//商品单价
       subimage1Filename :"//cdn01.xiaogj.com/file/mall/default/goods.png",		//商品图片名
       purchaseQuantity: 6								//商品数量
-    },
-    {
-      goodsTitle: "雕牌洗衣粉",
-      specifications: "大包",
-      unitPrice: "13",
-      subimage1Filename: "//cdn01.xiaogj.com/file/mall/default/goods.png",
-      purchaseQuantity: 1
-    },
-    {
-      goodsTitle: "旺仔牛奶",
-      specifications: "20盒装",
-      unitPrice: "45",
-      subimage1Filename: "//cdn01.xiaogj.com/file/mall/default/goods.png",
-      purchaseQuantity: 1
     }
   ] //Vue对象
   export default {
